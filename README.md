@@ -5,7 +5,7 @@ TensorFlow+Keras 深度學習人工智慧實務應用 書籍(作者:林大貴)�
 
 # Code
 
-- [Unit4 +Unit6 +Unit7 ](https://github.com/SYkkk55/Learn-Tensorflow-Keras-Note/blob/main/U4%2BU6%2BU7.ipynb) OK
+- [Unit4 +Unit6 +Unit7 ](https://github.com/SweetornotspicyMarathon/Learn-Tensorflow-Keras-Note/blob/main/U4%2BU6%2BU7.ipynb) OK
 
   - Unit4 : 在colab 上使用 tensorflow 和 Keras
   
